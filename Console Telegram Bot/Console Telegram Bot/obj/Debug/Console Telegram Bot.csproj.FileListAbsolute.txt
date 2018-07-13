@@ -1,0 +1,23 @@
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.exe.config
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.exe
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.pdb
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Newtonsoft.Json.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Telegram.Bot.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Newtonsoft.Json.xml
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Telegram.Bot.xml
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\obj\Debug\Console Telegram Bot.exe
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\obj\Debug\Console Telegram Bot.pdb
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\log4net.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\log4net.xml
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.exe.config
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\obj\Debug\Console Telegram Bot.exe
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\obj\Debug\Console Telegram Bot.pdb
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.exe
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Console Telegram Bot.pdb
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\log4net.dll
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Newtonsoft.Json.dll
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Telegram.Bot.dll
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\log4net.xml
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Newtonsoft.Json.xml
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\bin\Debug\Telegram.Bot.xml
+E:\_ASP PROJECTS\telegram-birthday-bot\Console Telegram Bot\Console Telegram Bot\obj\Debug\Console Telegram Bot.csprojResolveAssemblyReference.cache

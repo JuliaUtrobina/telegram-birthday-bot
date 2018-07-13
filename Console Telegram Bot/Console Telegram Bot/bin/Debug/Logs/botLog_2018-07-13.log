@@ -1,0 +1,6 @@
+﻿INFO  2018-07-13 22:27:29 [Main] - Started bot: RedCrazyBot
+INFO  2018-07-13 22:27:45 [MoveNext] - CallbackQuery received from: Julia Utrobina text is Как добраться?
+INFO  2018-07-13 22:27:51 [MoveNext] - Message received from: Julia Utrobina text is /about
+INFO  2018-07-13 22:28:07 [MoveNext] - CallbackQuery received from: Julia Utrobina text is When?
+INFO  2018-07-13 22:28:11 [MoveNext] - CallbackQuery received from: Julia Utrobina text is Where?
+INFO  2018-07-13 22:28:21 [MoveNext] - CallbackQuery received from: Julia Utrobina text is How to get there?

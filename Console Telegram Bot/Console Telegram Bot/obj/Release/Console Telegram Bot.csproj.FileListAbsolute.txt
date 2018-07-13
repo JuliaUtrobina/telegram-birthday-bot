@@ -1,0 +1,11 @@
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Console Telegram Bot.exe.config
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Console Telegram Bot.exe
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Console Telegram Bot.pdb
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\log4net.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Newtonsoft.Json.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Telegram.Bot.dll
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\log4net.xml
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Newtonsoft.Json.xml
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\bin\Release\Telegram.Bot.xml
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\obj\Release\Console Telegram Bot.exe
+E:\_ASP PROJECTS\Telegram bot\Console Telegram Bot\Console Telegram Bot\obj\Release\Console Telegram Bot.pdb
